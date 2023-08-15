@@ -10,6 +10,6 @@ compile.sh
 
 You should be able to compile the code with pretty much any compiler. The C++ code generates bitmap images and `ffmpeg` compiles them into a video of the transformation.
 
-## Examples
+## Example
 
 ![example gif](samples/square_to_circle.gif)
